@@ -1,0 +1,15 @@
+dinners=2 tables=6 cooks=4
+Running restaurant
+time 1 : dinner 1 arrives at the restaurant
+time 1 : dinner 1 gets table 1
+time 1 : dinner 1 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 1 : cook 1 gets order from dinner 1
+time 1 : cook 1 is using burger machine 
+time 11 : cook 1 releases burger machine and 2 burgers are made
+time 2 : dinner 2 arrives at the restaurant
+time 2 : dinner 2 gets table 2
+time 2 : dinner 2 makes an order: 4 burgers and 0 fries and 1 cokes.
+time 2 : cook 2 gets order from dinner 2
+time 11 : cook 2 is using burger machine 
+time 31 : cook 2 releases burger machine and 4 burgers are made
+Total cost time: 0.044s

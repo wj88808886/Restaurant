@@ -1,0 +1,247 @@
+dinners=20 tables=6 cooks=4
+Running restaurant
+time 1 : dinner 1 arrives at the restaurant
+time 1 : dinner 1 gets table 1
+time 1 : dinner 1 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 1 : cook 1 gets order from dinner 1
+time 1 : cook 1 is using burger machine 
+time 11 : cook 1 releases burger machine and 2 burgers are made
+time 11 : cook 1 is using fries machine 
+time 14 : cook 1 releases fries machine and 1 fries are made
+time 14 : cook 1 finishes cooking order 
+time 14 : cook 1 send food to dinner 1
+time 14 : dinner 1 start eating
+time 44 : dinner 1 leaves the restaurant
+time 2 : dinner 2 arrives at the restaurant
+time 2 : dinner 2 gets table 2
+time 2 : dinner 2 makes an order: 4 burgers and 0 fries and 1 cokes.
+time 2 : cook 2 gets order from dinner 2
+time 11 : cook 2 is using burger machine 
+time 31 : cook 2 releases burger machine and 4 burgers are made
+time 31 : cook 2 is using cokes machine 
+time 32 : cook 2 releases cokes machine and 1 cokes are made
+time 32 : cook 2 finishes cooking order 
+time 32 : cook 2 send food to dinner 2
+time 32 : dinner 2 start eating
+time 62 : dinner 2 leaves the restaurant
+time 3 : dinner 3 arrives at the restaurant
+time 3 : dinner 3 gets table 3
+time 3 : dinner 3 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 3 : cook 3 gets order from dinner 3
+time 31 : cook 3 is using burger machine 
+time 41 : cook 3 releases burger machine and 2 burgers are made
+time 41 : cook 3 is using fries machine 
+time 44 : cook 3 releases fries machine and 1 fries are made
+time 44 : cook 3 finishes cooking order 
+time 44 : cook 3 send food to dinner 3
+time 44 : dinner 3 start eating
+time 74 : dinner 3 leaves the restaurant
+time 4 : dinner 4 arrives at the restaurant
+time 4 : dinner 4 gets table 4
+time 4 : dinner 4 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 4 : cook 4 gets order from dinner 4
+time 41 : cook 4 is using burger machine 
+time 51 : cook 4 releases burger machine and 2 burgers are made
+time 51 : cook 4 is using fries machine 
+time 54 : cook 4 releases fries machine and 1 fries are made
+time 54 : cook 4 finishes cooking order 
+time 54 : cook 4 send food to dinner 4
+time 54 : dinner 4 start eating
+time 84 : dinner 4 leaves the restaurant
+time 5 : dinner 5 arrives at the restaurant
+time 5 : dinner 5 gets table 5
+time 5 : dinner 5 makes an order: 2 burgers and 0 fries and 1 cokes.
+time 14 : cook 1 gets order from dinner 5
+time 51 : cook 1 is using burger machine 
+time 61 : cook 1 releases burger machine and 2 burgers are made
+time 61 : cook 1 is using cokes machine 
+time 62 : cook 1 releases cokes machine and 1 cokes are made
+time 62 : cook 1 finishes cooking order 
+time 62 : cook 1 send food to dinner 5
+time 62 : dinner 5 start eating
+time 92 : dinner 5 leaves the restaurant
+time 6 : dinner 6 arrives at the restaurant
+time 6 : dinner 6 gets table 6
+time 6 : dinner 6 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 32 : cook 2 gets order from dinner 6
+time 61 : cook 2 is using burger machine 
+time 71 : cook 2 releases burger machine and 2 burgers are made
+time 71 : cook 2 is using fries machine 
+time 74 : cook 2 releases fries machine and 1 fries are made
+time 74 : cook 2 finishes cooking order 
+time 74 : cook 2 send food to dinner 6
+time 74 : dinner 6 start eating
+time 104 : dinner 6 leaves the restaurant
+time 7 : dinner 7 arrives at the restaurant
+time 44 : dinner 7 gets table 1
+time 44 : dinner 7 makes an order: 1 burgers and 1 fries and 1 cokes.
+time 44 : cook 3 gets order from dinner 7
+time 71 : cook 3 is using burger machine 
+time 76 : cook 3 releases burger machine and 1 burgers are made
+time 76 : cook 3 is using fries machine 
+time 79 : cook 3 releases fries machine and 1 fries are made
+time 79 : cook 3 is using cokes machine 
+time 80 : cook 3 releases cokes machine and 1 cokes are made
+time 80 : cook 3 finishes cooking order 
+time 80 : cook 3 send food to dinner 7
+time 80 : dinner 7 start eating
+time 110 : dinner 7 leaves the restaurant
+time 41 : dinner 8 arrives at the restaurant
+time 62 : dinner 8 gets table 2
+time 62 : dinner 8 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 62 : cook 4 gets order from dinner 8
+time 76 : cook 4 is using burger machine 
+time 86 : cook 4 releases burger machine and 2 burgers are made
+time 86 : cook 4 is using fries machine 
+time 89 : cook 4 releases fries machine and 1 fries are made
+time 89 : cook 4 finishes cooking order 
+time 89 : cook 4 send food to dinner 8
+time 89 : dinner 8 start eating
+time 119 : dinner 8 leaves the restaurant
+time 42 : dinner 9 arrives at the restaurant
+time 74 : dinner 9 gets table 3
+time 74 : dinner 9 makes an order: 4 burgers and 0 fries and 1 cokes.
+time 74 : cook 1 gets order from dinner 9
+time 86 : cook 1 is using burger machine 
+time 106 : cook 1 releases burger machine and 4 burgers are made
+time 106 : cook 1 is using cokes machine 
+time 107 : cook 1 releases cokes machine and 1 cokes are made
+time 107 : cook 1 finishes cooking order 
+time 107 : cook 1 send food to dinner 9
+time 107 : dinner 9 start eating
+time 137 : dinner 9 leaves the restaurant
+time 43 : dinner 10 arrives at the restaurant
+time 84 : dinner 10 gets table 4
+time 84 : dinner 10 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 84 : cook 2 gets order from dinner 10
+time 106 : cook 2 is using burger machine 
+time 116 : cook 2 releases burger machine and 2 burgers are made
+time 116 : cook 2 is using fries machine 
+time 119 : cook 2 releases fries machine and 1 fries are made
+time 119 : cook 2 finishes cooking order 
+time 119 : cook 2 send food to dinner 10
+time 119 : dinner 10 start eating
+time 149 : dinner 10 leaves the restaurant
+time 44 : dinner 11 arrives at the restaurant
+time 92 : dinner 11 gets table 5
+time 92 : dinner 11 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 92 : cook 3 gets order from dinner 11
+time 116 : cook 3 is using burger machine 
+time 126 : cook 3 releases burger machine and 2 burgers are made
+time 126 : cook 3 is using fries machine 
+time 129 : cook 3 releases fries machine and 1 fries are made
+time 129 : cook 3 finishes cooking order 
+time 129 : cook 3 send food to dinner 11
+time 129 : dinner 11 start eating
+time 159 : dinner 11 leaves the restaurant
+time 45 : dinner 12 arrives at the restaurant
+time 104 : dinner 12 gets table 6
+time 104 : dinner 12 makes an order: 2 burgers and 0 fries and 1 cokes.
+time 104 : cook 4 gets order from dinner 12
+time 126 : cook 4 is using burger machine 
+time 136 : cook 4 releases burger machine and 2 burgers are made
+time 136 : cook 4 is using cokes machine 
+time 137 : cook 4 releases cokes machine and 1 cokes are made
+time 137 : cook 4 finishes cooking order 
+time 137 : cook 4 send food to dinner 12
+time 137 : dinner 12 start eating
+time 167 : dinner 12 leaves the restaurant
+time 46 : dinner 13 arrives at the restaurant
+time 110 : dinner 13 gets table 1
+time 110 : dinner 13 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 110 : cook 1 gets order from dinner 13
+time 136 : cook 1 is using burger machine 
+time 146 : cook 1 releases burger machine and 2 burgers are made
+time 146 : cook 1 is using fries machine 
+time 149 : cook 1 releases fries machine and 1 fries are made
+time 149 : cook 1 finishes cooking order 
+time 149 : cook 1 send food to dinner 13
+time 149 : dinner 13 start eating
+time 179 : dinner 13 leaves the restaurant
+time 47 : dinner 14 arrives at the restaurant
+time 119 : dinner 14 gets table 2
+time 119 : dinner 14 makes an order: 1 burgers and 1 fries and 1 cokes.
+time 119 : cook 2 gets order from dinner 14
+time 146 : cook 2 is using burger machine 
+time 151 : cook 2 releases burger machine and 1 burgers are made
+time 151 : cook 2 is using fries machine 
+time 154 : cook 2 releases fries machine and 1 fries are made
+time 154 : cook 2 is using cokes machine 
+time 155 : cook 2 releases cokes machine and 1 cokes are made
+time 155 : cook 2 finishes cooking order 
+time 155 : cook 2 send food to dinner 14
+time 155 : dinner 14 start eating
+time 185 : dinner 14 leaves the restaurant
+time 81 : dinner 15 arrives at the restaurant
+time 137 : dinner 15 gets table 3
+time 137 : dinner 15 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 137 : cook 3 gets order from dinner 15
+time 151 : cook 3 is using burger machine 
+time 161 : cook 3 releases burger machine and 2 burgers are made
+time 161 : cook 3 is using fries machine 
+time 164 : cook 3 releases fries machine and 1 fries are made
+time 164 : cook 3 finishes cooking order 
+time 164 : cook 3 send food to dinner 15
+time 164 : dinner 15 start eating
+time 194 : dinner 15 leaves the restaurant
+time 82 : dinner 16 arrives at the restaurant
+time 149 : dinner 16 gets table 4
+time 149 : dinner 16 makes an order: 4 burgers and 0 fries and 1 cokes.
+time 149 : cook 4 gets order from dinner 16
+time 161 : cook 4 is using burger machine 
+time 181 : cook 4 releases burger machine and 4 burgers are made
+time 181 : cook 4 is using cokes machine 
+time 182 : cook 4 releases cokes machine and 1 cokes are made
+time 182 : cook 4 finishes cooking order 
+time 182 : cook 4 send food to dinner 16
+time 182 : dinner 16 start eating
+time 212 : dinner 16 leaves the restaurant
+time 83 : dinner 17 arrives at the restaurant
+time 159 : dinner 17 gets table 5
+time 159 : dinner 17 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 159 : cook 1 gets order from dinner 17
+time 181 : cook 1 is using burger machine 
+time 191 : cook 1 releases burger machine and 2 burgers are made
+time 191 : cook 1 is using fries machine 
+time 194 : cook 1 releases fries machine and 1 fries are made
+time 194 : cook 1 finishes cooking order 
+time 194 : cook 1 send food to dinner 17
+time 194 : dinner 17 start eating
+time 224 : dinner 17 leaves the restaurant
+time 84 : dinner 18 arrives at the restaurant
+time 167 : dinner 18 gets table 6
+time 167 : dinner 18 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 167 : cook 2 gets order from dinner 18
+time 191 : cook 2 is using burger machine 
+time 201 : cook 2 releases burger machine and 2 burgers are made
+time 201 : cook 2 is using fries machine 
+time 204 : cook 2 releases fries machine and 1 fries are made
+time 204 : cook 2 finishes cooking order 
+time 204 : cook 2 send food to dinner 18
+time 204 : dinner 18 start eating
+time 234 : dinner 18 leaves the restaurant
+time 85 : dinner 19 arrives at the restaurant
+time 179 : dinner 19 gets table 1
+time 179 : dinner 19 makes an order: 2 burgers and 0 fries and 1 cokes.
+time 179 : cook 3 gets order from dinner 19
+time 201 : cook 3 is using burger machine 
+time 211 : cook 3 releases burger machine and 2 burgers are made
+time 211 : cook 3 is using cokes machine 
+time 212 : cook 3 releases cokes machine and 1 cokes are made
+time 212 : cook 3 finishes cooking order 
+time 212 : cook 3 send food to dinner 19
+time 212 : dinner 19 start eating
+time 242 : dinner 19 leaves the restaurant
+time 86 : dinner 20 arrives at the restaurant
+time 185 : dinner 20 gets table 2
+time 185 : dinner 20 makes an order: 2 burgers and 1 fries and 0 cokes.
+time 185 : cook 4 gets order from dinner 20
+time 211 : cook 4 is using burger machine 
+time 221 : cook 4 releases burger machine and 2 burgers are made
+time 221 : cook 4 is using fries machine 
+time 224 : cook 4 releases fries machine and 1 fries are made
+time 224 : cook 4 finishes cooking order 
+time 224 : cook 4 send food to dinner 20
+time 224 : dinner 20 start eating
+time 254 : dinner 20 leaves the restaurant
+Total cost time: 0.40900000000000003s
